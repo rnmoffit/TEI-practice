@@ -2470,7 +2470,7 @@ of hunger tryin’ ter get out, even if yeh did manage ter
 get yer hands on summat.” 
 
 Harry sat and thought about this while Hagrid read 
-  his newspaper, the <emph>Daily Prophet</emph> Harry had learned 
+  his newspaper, the <bibl><emph>Daily Prophet</emph><bibl> Harry had learned 
 from Uncle Vernon that people liked to be left alone 
 while they did this, but it was very difficult, he’d 
 never had so many questions in his life. 
@@ -2549,14 +2549,14 @@ Please note that all pupils’ clothes should carry name tags
 
 COURSE BOOKS 
 All students should have a copy of each of the following: <list>
-<item> <emph>The Standard Book of Spells (Grade 1)</emph> by Miranda Goshawk </item> 
- <item> <emph>A History of Magic</emph> by Bathilda Bagshot </item>
- <item> <emph>Magical Theory</emph> by Adalbert Waffling </item>
-<item> <emph>A Beginners’ Guide to Transfiguration</emph> by Emeric Switch</item> 
- <item> <emph>One Thousand Magical Herbs and Fungi</emph> by Phyllida Spore </item>
- <item> <emph>Magical Drafts and Potions</emph> by Arsenius Jigger </item><pb n="67"/>
- <item> <emph>Fantastic Beasts and Where to Find Them</emph> by Newt Scamander</item>
- <item> <emph>The Dark Forces: A Guide to Self-Protection</emph> by Quentin Trimble</item></list> 
+ <item> <bibl><emph>The Standard Book of Spells (Grade 1)</emph> by Miranda Goshawk </item></bibl> 
+ <item> <bibl><emph>A History of Magic</emph> by Bathilda Bagshot </item></bibl>
+ <item> <bibl><emph>Magical Theory</emph> by Adalbert Waffling </item></bibl>
+ <item> <bibl><emph>A Beginners’ Guide to Transfiguration</emph> by Emeric Switch</item></bibl> 
+ <item> <bibl><emph>One Thousand Magical Herbs and Fungi</emph> by Phyllida Spore </item></bibl>
+ <item> <bibl><emph>Magical Drafts and Potions</emph> by Arsenius Jigger </item><pb n="67"/></bibl>
+ <item> <bibl><emph>Fantastic Beasts and Where to Find Them</emph> by Newt Scamander</item></bibl>
+ <item> <bibl><emph>The Dark Forces: A Guide to Self-Protection</emph> by Quentin Trimble</item></list></bibl> 
 
 OTHER EQUIPMENT <list>
  <item>1 wand </item>
@@ -3072,7 +3072,7 @@ bound in leather; books the size of postage stamps in
 covers of silk; books full of peculiar symbols and a 
 few books with nothing in them at all. Even Dudley, 
 who never read anything, would have been wild to get 
-his hands on some of these. Hagrid almost had to drag Harry away from <emph>Curses and Counter-curses</emph> (<emph>Bewitch Your Friends and Befuddle Your Enemies with the Latest Revenges: Hair Loss, Jelly-Legs, Tongue-Tying and Much, Much More</emph>) by Professor Vindictus Viridian. 
+his hands on some of these. Hagrid almost had to drag Harry away from <bibl><emph>Curses and Counter-curses</emph> (<emph>Bewitch Your Friends and Befuddle Your Enemies with the Latest Revenges: Hair Loss, Jelly-Legs, Tongue-Tying and Much, Much More</emph>) by Professor Vindictus Viridian</bibl>. 
 
 “I was trying to find out how to curse Dudley.” 
 
@@ -3358,7 +3358,7 @@ ways, it did become a bit depressing after a while.
 
 Harry kept to his room, with his new owl for 
 company. He had decided to call her Hedwig, a name 
-   he had found in <emph>A History of Magic</emph>. His school books 
+   he had found in <bibl><emph>A History of Magic</emph></bibl>. His school books 
 were very interesting. He lay on his bed reading late 
 into the night, Hedwig swooping in and out of the 
 open window as she pleased. It was lucky that Aunt 
@@ -3975,7 +3975,7 @@ tearful.
 
 When they shook their heads, he wailed, “I’ve lost him! He keeps getting away from me!” 
 
-“Hell turn up,” said Harry. 
+“He'll turn up,” said Harry. 
 
 “Yes,” said the boy miserably. “Well, if you see him ...” 
 
@@ -4039,7 +4039,7 @@ Harry looked at Ron, and was relieved to see by his stunned face that he hadn’
 
 “Harry Potter,” said Harry. 
 
-“Are you really?” said Hermione. “I know all about you, of course — I got a few extra books for background reading, and you’re in <emph>Modern Magical History</emph> and <emph>The Rise and Fall of the Dark Arts</emph> and <emph>Great Wizarding Events of the Twentieth Century</emph>.” 
+“Are you really?” said Hermione. “I know all about you, of course — I got a few extra books for background reading, and you’re in <bibl><emph>Modern Magical History</emph></bibl> and <bibl><emph>The Rise and Fall of the Dark Arts</emph></bibl> and <bibl><emph>Great Wizarding Events of the Twentieth Century</emph></bibl>.” 
 
 “Am I?” said Harry, feeling dazed. 
 
@@ -4442,7 +4442,7 @@ the students, the ghosts shone misty silver. Mainly to
 avoid all the staring eyes, Harry looked upward and 
 saw a velvety black ceiling dotted with stars. He heard <pb n="117"/>
 Hermione whisper, “It’s bewitched to look like the sky 
- outside. I read about it in <emph>Hogwarts, A History</emph>.” 
+ outside. I read about it in <bibl><emph>Hogwarts, A History</emph></bibl>.” 
 
 It was hard to believe there was a ceiling there at all, and that the Great Hall didn’t simply open on to the heavens. 
 
@@ -5234,7 +5234,7 @@ A few people laughed; Harry caught Seamus’s eye, and Seamus winked. Snape, how
 “Sit down,” he snapped at Hermione. “For your 
 information, Potter, asphodel and wormwood make a 
 sleeping potion so powerful it is known as the 
-Draught of Living Death. A bezoar is a stone taken 
+ <distinct type="potion">Draught of Living Death</distinct>. A bezoar is a stone taken 
 from the stomach of a goat and it will save you from 
 most poisons. As for monkshood and wolfsbane, they 
 are the same plant, which also goes by the name of 
@@ -5439,7 +5439,7 @@ flying as Neville was. This was something you couldn’t
 learn by heart out of a book — not that she hadn’t 
 tried. At breakfast on Thursday she bored them all 
 stupid with flying tips she’d gotten out of a library 
-   book called <emph>Quidditch Through the Ages</emph>. Neville was 
+   book called <bibl><emph>Quidditch Through the Ages</emph></bibl>. Neville was 
 hanging on to her every word, desperate for anything 
 that might help him hang on to his broomstick later, 
 but everybody else was very pleased when Hermione ’s 
@@ -5456,7 +5456,7 @@ grandmother. He opened it excitedly and showed
 them a glass ball the size of a large marble, which 
 seemed to be full of white smoke. 
 
-“It’s a Remembrall!” he explained. “Gran knows I 
+   “It’s a <distinct type="item">Remembrall</distinct>!” he explained. “Gran knows I 
 forget things — this tells you if there’s something 
 you’ve forgotten to do. Look, you hold it tight like this 
 and if it turns red — oh ...” His face fell, because the 
@@ -5861,8 +5861,8 @@ Hermione wasn’t going to give up that easily. She followed Ron through the por
    “Don’t you <emph>care</emph> about Gryffindor, do you <emph>only</emph> care 
    about yourselves, <emph>I</emph> don’t want Slytherin to win the 
 House Cup, and you’ll lose all the points I got from 
-Professor McGonagall for knowing about Switching 
-Spells.” 
+Professor McGonagall for knowing about <distinct type="spellName">Switching 
+   Spells</distinct>.” 
 
 “Go away.” 
 
@@ -5914,7 +5914,7 @@ It wasn’t Mrs. Norris. It was Neville. He was curled up on the floor, fast asl
 
 Ron looked at his watch and then glared furiously at Hermione and Neville. 
 
-“If either of you get us caught, I’ll never rest until I’ve learned that Curse of the Bogies Quirrell told us about, and used it on you.” 
+“If either of you get us caught, I’ll never rest until I’ve learned that <distinct type="spellName">Curse of the Bogies</distinct> Quirrell told us about, and used it on you.” 
 
 Hermione opened her mouth, perhaps to tell Ron exactly how to use the Curse of the Bogies, but Harry hissed at her to be quiet and beckoned them all forward. 
 
@@ -6012,7 +6012,7 @@ Ducking under Peeves, they ran for their lives, right to the end of the corridor
    
 They could hear footsteps, Filch running as fast as he could toward Peeves’s shouts. 
 
-“Oh, move over,” Hermione snarled. She grabbed Harry’s wand, tapped the lock, and whispered, “<emph>Alohomora</emph>!” 
+“Oh, move over,” Hermione snarled. She grabbed Harry’s wand, tapped the lock, and whispered, “<distinct type="spellWords"><emph>Alohomora</emph></distinct>!” 
 
 The lock clicked and the door swung open — they piled through it, shut it quickly, and pressed their ears against it, listening. 
 
@@ -6443,7 +6443,7 @@ fire to it — Harry had to put it out with his hat.
 
 Ron, at the next table, wasn’t having much more luck. 
 
-“<emph>Wingardium Leviosa<emph>!” he shouted, waving his long arms like a windmill. 
+ “<distinct type="spellWords"><emph>Wingardium Leviosa<emph></distinct>!” he shouted, waving his long arms like a windmill. 
 
  “You’re saying it wrong,” Harry heard Hermione snap. “It’s Wing-<emph>gar</emph>-dium Levi-<emph>o</emph>-sa, make the ‘gar’ nice and long.” 
 
@@ -7412,10 +7412,10 @@ else were they going to find out what Snape was
 trying to steal? The trouble was, it was very hard to 
 know where to begin, not knowing what Flamel might 
 have done to get himself into a book. He wasn’t in 
-  <emph>Great Wizards of the Twentieth Century</emph>, or <emph>Notable 
-  Magical Names of Our Time</emph>; he was missing, too, from 
-  <emph>Important Modern Magical Discoveries</emph>, and <emph>A Study of 
-  Recent Developments in Wizardry</emph>. And then, of 
+  <bibl><emph>Great Wizards of the Twentieth Century</emph></bibl>, or <bibl><emph>Notable 
+  Magical Names of Our Time</emph></bibl>; he was missing, too, from 
+  <bibl><emph>Important Modern Magical Discoveries</emph></bibl>, and <bibl><emph>A Study of 
+  Recent Developments in Wizardry</emph></bibl>. And then, of 
 course, there was the sheer size of the library; tens of 
 thousands of books; thousands of shelves; hundreds 
 of narrow rows. 
@@ -8198,7 +8198,7 @@ At that moment Neville toppled into the common
 room. How he had managed to climb through the 
 portrait hole was anyone’s guess, because his legs 
 had been stuck together with what they recognized at 
-once as the Leg-Locker Curse. He must have had to 
+  once as the <distinct type="spellName">Leg-Locker Curse</distinct>. He must have had to 
 bunny hop all the way up to Gryffindor Tower. 
 
 Everyone fell over laughing except Hermione, who 
@@ -8294,7 +8294,7 @@ moved out of Gringotts!”
 
 “A stone that makes gold and stops you from ever dying!” said Harry. “No wonder Snape’s after it! <emph>Anyone</emph> would want it.” 
 
-“And no wonder we couldn’t find Flamel in that <emph>Study of Recent Developments in Wizardry</emph>,” said Ron. “He’s not exactly recent if he’s six hundred and sixty-five, is he?” 
+“And no wonder we couldn’t find Flamel in that <bibl><emph>Study of Recent Developments in Wizardry</emph></bibl>,” said Ron. “He’s not exactly recent if he’s six hundred and sixty-five, is he?” 
 <lb/>
   
 The next morning in Defense Against the Dark Arts, 
@@ -8354,7 +8354,7 @@ idea from Malfoy using it on Neville, and were ready
 to use it on Snape if he showed any sign of wanting to 
 hurt Harry. 
 
-  “Now, don’t forget, it’s <emph>Locomotor Mortis</emph>,” Hermione muttered as Ron slipped his wand up his sleeve. 
+  “Now, don’t forget, it’s <distinct type="spellWords"><emph>Locomotor Mortis</emph></distinct>,” Hermione muttered as Ron slipped his wand up his sleeve. 
 
   “I <emph>know</emph>,” Ron snapped. “Don’t nag.” 
 
@@ -8682,9 +8682,9 @@ minute later with a pile of books in his arms and
 slammed them down on the table. 
 
  “<emph>Dragons</emph>!” he whispered. “Hagrid was looking up stuff 
-about dragons! Look at these: <emph>Dragon Species of Great 
+about dragons! Look at these: <bibl><emph>Dragon Species of Great 
 Britain and Ireland; From Egg to Inferno, A Dragon 
- Keeper’s Guide</emph>.” 
+ Keeper’s Guide</emph></bibl>.” 
 
 “Hagrid’s always wanted a dragon, he told me so the first time I ever met him,” said Harry. 
 
@@ -8787,7 +8787,7 @@ it, ter be honest.”
 
 “Well, I’ve bin doin’ some readin’,” said Hagrid, pulling 
 a large book from under his pillow. “Got this outta the 
- library — <emph>Dragon Breeding for Pleasure and Profit</emph> — 
+ library — <bibl><emph>Dragon Breeding for Pleasure and Profit</emph></bibl> — 
 it’s a bit outta date, o’ course, but it’s all in here. Keep 
 the egg in the fire, ’cause their mothers breathe on 
 ’em, see, an’ when it hatches, feed it on a bucket o’ 
@@ -9300,7 +9300,7 @@ have given in at last.
 
 Harry went back to the library, where Hermione was testing Ron on Astronomy. Harry told them what he’d heard. 
 
-“Snape’s done it, then!” said Ron. “If Quirrell’s told him how to break his Anti-Dark Force spell — ” 
+“Snape’s done it, then!” said Ron. “If Quirrell’s told him how to break his <distinct type="spellName">Anti-Dark Force spell</distinct> — ” 
 
 “There’s still Fluffy, though,” said Hermione. 
 
@@ -9873,8 +9873,8 @@ well behind the locked door.
 It was sweltering hot, especially in the large 
 classroom where they did their written papers. They 
 had been given special, new quills for the exams, 
-which had been bewitched with an Anti-Cheating 
-spell. 
+which had been bewitched with an <distinct type="spellName">Anti-Cheating 
+ spell</distinct>. 
 
 They had practical exams as well. Professor Flitwick 
 called them one by one into his class to see if they 
@@ -10311,7 +10311,7 @@ Hermione stepped forward.
 
  She raised her wand. 
 
- “<emph>Petrificus Totalus</emph>!” she cried, pointing it at Neville. 
+ “<distinct type="spellWords"><emph>Petrificus Totalus</emph></distinct>!” she cried, pointing it at Neville. 
 
 Neville’s arms snapped to his sides. His legs sprang 
 together. His whole body rigid, he swayed where he 
@@ -10323,7 +10323,7 @@ were moving, looking at them in horror.
 
 “What’ve you done to him?” Harry whispered. 
 
-“It’s the full Body-Bind,” said Hermione miserably. “Oh, Neville, I’m so sorry.” 
+ “It’s the <distinct type="spellName">full Body-Bind</distinct>,” said Hermione miserably. “Oh, Neville, I’m so sorry.” 
 
 “We had to, Neville, no time to explain,” said Harry. 
 
