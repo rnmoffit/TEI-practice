@@ -24,6 +24,9 @@
 </teiHeader>
 
 <text>
+ <front>
+ </front>
+ <body>
 <div1 type="chapter" n="1">
  <pb n="1"/>
   <head>CHAPTER ONE: THE BOY WHO LIVED </head>
@@ -11747,11 +11750,10 @@ Harry hung back for a last word with Ron and Hermione.
 the grin that was spreading over his face. “<emph>They</emph> don’t 
 know we’re not allowed to use magic at home. I’m 
 going to have a lot of fun with Dudley this summer...” 
-
-
-
   </div1>
-
+</body>
+<back>
+</back>
  
  </text>
 </TEI>
