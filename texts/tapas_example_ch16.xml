@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chapter Sixteen, Bram Stoker's Dracula</title>
+                <author>
+                    <persName>Sari Dale</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <ab><date when="2019-04-04"/></ab>
+                <ab><orgName>ENGL305/DIHU301</orgName></ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Stoker, Bram. The Project Gutenberg Ebook of Dracula. 2013.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head>Chapter XVI</head>
+            <div type="passage">
+                <head>Continued from <persName ref="#Dr.Seward">Dr. Seward's</persName> Diary,
+                        <date>September 29th</date></head>
+                <p>It was just a quarter before twelve o’clock when we got into the churchyard over
+                    the low wall. The night was dark with occasional gleams of moonlight between the
+                    rents of the heavy clouds that scudded across the sky. We all kept somehow close
+                    together, with <persName ref="#VanHelsing">Van Helsing</persName> slightly in
+                    front as he led the way. When we had come close to the tomb I looked well at
+                        <persName ref="#Arthur">Arthur</persName> for I feared that the proximity to
+                    a place laden with so sorrowful a memory would upset him; but he bore himself
+                    well. I took it that the very mystery of the proceeding was in some way a
+                    counteractant to his grief. The <persName ref="#VanHelsing">Professor</persName>
+                    unlocked the door, and seeing a natural hesitation amongst us for various
+                    reasons, solved the difficulty by entering first himself. The rest of us
+                    followed, and he closed the door. He then lit a dark lantern and pointed to the
+                    coffin. <persName ref="#Arthur">Arthur</persName> stepped forward hesitatingly;
+                        <persName ref="#VanHelsing">Van Helsing</persName> said to me:—</p>
+                <p>“You were with me here yesterday. Was the body of <persName ref="#Lucy">Miss
+                        Lucy</persName> in that coffin?”</p>
+                <p>“It was.” The <persName ref="#VanHelsing">Professor</persName> turned to the rest
+                    saying:—</p>
+                <p>“You hear; and yet there is no one who does not believe with me.” He took his
+                    screwdriver and again took off the lid of the coffin. <persName ref="#Arthur"
+                        >Arthur</persName> looked on, very pale but silent; when the lid was removed
+                    he stepped forward. He evidently did not know that there was a leaden coffin,
+                    or, at any rate, had not thought of it. When he saw the rent in the lead, the
+                        <ref target="#violenterotic">blood</ref> rushed to his face for an instant,
+                    but as quickly fell away again, so that he remained of a ghastly whiteness; he
+                    was still silent. <persName ref="#VanHelsing">Van Helsing</persName> forced back
+                    the leaden flange, and we all looked in and recoiled.</p>
+                <p>The coffin was empty!</p>
+                <p>For several minutes no one spoke a word. The silence was broken by <persName
+                        ref="Quincey">Quincey Morris</persName>:—</p>
+                <p>“<persName ref="#VanHelsing">Professor</persName>, I answered for you. Your word
+                    is all I want. I wouldn’t ask such a thing ordinarily—I wouldn’t so dishonour
+                    you as to imply a doubt; but this is a mystery that goes beyond any honour or
+                    dishonour. Is this your doing?”</p>
+                <p>“I swear to you by all that I hold sacred that I have not removed nor touched
+                    her. What happened was this: Two nights ago my friend Seward and I came
+                    here—with good purpose, believe me. I opened that coffin, which was then sealed
+                    up, and we found it, as now, empty. We then waited, and saw something white come
+                    through the trees. The next day we came here in day-time, and she lay there. Did
+                    she not, friend John?”</p>
+                <p>“Yes.”</p>
+                <p>“That night we were just in time. One more so small child was missing, and we
+                    find it, thank God, unharmed amongst the graves. Yesterday I came here before
+                    sundown, for at sundown the Un-Dead can move. I waited here all the night till
+                    the sun rose, but I saw nothing. It was most probable that it was because I had
+                    laid over the clamps of those doors garlic, which the Un-Dead cannot bear, and
+                    other things which they shun. Last night there was no exodus, so to-night before
+                    the sundown I took away my garlic and other things. And so it is we find this
+                    coffin empty. But bear with me. So far there is much that is strange. Wait you
+                    with me outside, unseen and unheard, and things much stranger are yet to be.
+                    So”—here he shut the dark slide of his lantern—“now to the outside.” He opened
+                    the door, and we filed out, he coming last and locking the door behind him.</p>
+                <p>Oh! but it seemed fresh and <ref target="#erotic">pure</ref> in the night air
+                    after the terror of that vault. How <ref target="#erotic">sweet</ref> it was to
+                    see the clouds race by, and the passing gleams of the moonlight between the
+                    scudding clouds crossing and passing—like the gladness and sorrow of a man’s
+                    life; how <ref target="#erotic">sweet</ref> it was to breathe the fresh air,
+                    that had no taint of death and decay; how humanising to see the <ref
+                        target="#erotic">red</ref> lighting of the sky beyond the hill, and to hear
+                    far away the muffled roar that marks the life of a great city. Each in his own
+                    way was solemn and overcome. <persName ref="#Arthur">Arthur</persName> was
+                    silent, and was, I could see, striving to grasp the purpose and the inner
+                    meaning of the mystery. I was myself tolerably patient, and half inclined again
+                    to throw aside doubt and to accept <persName ref="#VanHelsing">Van
+                        Helsing's</persName> conclusions. <persName ref="Quincey"> Quincey Morris
+                    </persName>was phlegmatic in the way of a man who accepts all things, and
+                    accepts them in the spirit of cool bravery, with hazard of all he has to stake.
+                    Not being able to smoke, he cut himself a good-sized plug of tobacco and began
+                    to chew. As to Van Helsing, he was employed in a definite way. First he took
+                    from his bag a mass of what looked like thin, wafer-like biscuit, which was
+                    carefully rolled up in a white napkin; next he took out a double-handful of some
+                    whitish stuff, like dough or putty. He crumbled the wafer up fine and worked it
+                    into the mass between his hands. This he then took, and rolling it into thin
+                    strips, began to lay them into the crevices between the door and its setting in
+                    the tomb. I was somewhat puzzled at this, and being close, asked him what it was
+                    that he was doing. <persName ref="#Arthur">Arthur</persName> and <persName
+                        ref="Quincey">Quincey</persName> drew near also, as they too were curious.
+                    He answered:—</p>
+                <p>“I am closing the tomb, so that the Un-Dead may not enter.”</p>
+                <p>“And is that stuff you have put there going to do it?” asked <persName
+                        ref="Quincey">Quincey</persName>. “Great Scott! Is this a game?”</p>
+                <p>“It is.”</p>
+                <p>“What is that which you are using?” This time the question was by <persName
+                        ref="#Arthur">Arthur</persName>. <persName ref="#VanHelsing">Van
+                        Helsing</persName> reverently lifted his hat as he answered:—</p>
+                <p>“The Host. I brought it from Amsterdam. I have an Indulgence.” It was an answer
+                    that appalled the most sceptical of us, and we felt individually that in the
+                    presence of such earnest purpose as the <persName ref="#VanHelsing"
+                        >Professor's</persName>, a purpose which could thus use the to him most
+                    sacred of things, it was impossible to distrust. In respectful silence we took
+                    the places assigned to us close round the tomb, but hidden from the sight of any
+                    one approaching. I pitied the others, especially <persName ref="#Arthur"
+                        >Arthur</persName>. I had myself been apprenticed by my former visits to
+                    this watching horror; and yet I, who had up to an hour ago repudiated the
+                    proofs, felt my heart sink within me. Never did tombs look so ghastly white;
+                    never did cypress, or yew, or juniper so seem the embodiment of funereal gloom;
+                    never did tree or grass wave or rustle so ominously; never did bough creak so
+                    mysteriously; and never did the far-away howling of dogs send such a woeful
+                    presage through the night.</p>
+                <p>There was a long spell of silence, a big, aching void, and then from the
+                        <persName ref="#VanHelsing">Professor</persName> a keen “S-s-s-s!” He
+                    pointed; and far down the avenue of yews we saw a white figure advance—a dim
+                    white figure, which held something dark at its <ref target="#erotic"
+                        >breast</ref>. The figure stopped, and at the moment a ray of moonlight fell
+                    upon the masses of driving clouds and showed in startling prominence a
+                    dark-haired woman, dressed in the cerements of the grave. We could not see the
+                    face, for it was bent down over what we saw to be a fair-haired child. There was
+                    a pause and a sharp little cry, such as a child gives in sleep, or a dog as it
+                    lies before the fire and dreams. We were starting forward, but the <persName
+                        ref="#VanHelsing">Professor's</persName> warning hand, seen by us as he
+                    stood behind a yew-tree, kept us back; and then as we looked the white figure
+                    moved forwards again. It was now near enough for us to see clearly, and the
+                    moonlight still held. My own heart grew cold as ice, and I could hear the <ref
+                        target="#erotic">gasp</ref> of <persName ref="#Arthur">Arthur</persName>, as
+                    we recognised the features of <persName ref="#Lucy">Lucy Westerna</persName>.
+                        <persName ref="#Lucy">Lucy Westerna</persName>, but yet how changed. The
+                        <ref target="#erotic">sweetness</ref> was turned to adamantine, heartless
+                    cruelty, and the purity to <ref target="#erotic">voluptuous</ref>
+                    <ref target="#erotic">wantonness</ref>. <persName ref="#VanHelsing">Van
+                        Helsing</persName> stepped out, and, obedient to his gesture, we all
+                    advanced too; the four of us ranged in a line before the door of the tomb.
+                        <persName ref="#VanHelsing">Van Helsing</persName> raised his lantern and
+                    drew the slide; by the concentrated light that fell on <persName ref="#Lucy"
+                        >Lucy's</persName> face we could see that the <ref target="#erotic"
+                        >lips</ref> were <ref target="#violent">crimson</ref> with fresh <ref
+                        target="#violenterotic">blood</ref>, and that the stream had trickled over
+                    her chin and stained the <ref target="#erotic">purity</ref> of her lawn
+                    death-robe.</p>
+                <p>We <ref target="#violenterotic">shuddered</ref> with horror. I could see by the
+                    tremulous light that even <persName ref="#VanHelsing">Van Helsing's</persName>’s
+                    iron nerve had failed. <persName ref="#Arthur">Arthur</persName> was next to me,
+                    and if I had not seized his arm and held him up, he would have fallen.</p>
+                <p>When <persName ref="#Lucy">Lucy</persName>—I call the thing that was before us
+                        <persName ref="#Lucy">Lucy</persName> because it bore her shape—saw us she
+                    drew back with an angry <ref target="#violent">snarl</ref>, such as a cat gives
+                    when taken unawares; then her eyes ranged over us. <persName ref="#Lucy"
+                        >Lucy's</persName> eyes in form and colour; but <persName ref="#Lucy"
+                        >Lucy's</persName> eyes unclean and full of hell-fire, instead of the pure,
+                    gentle orbs we knew. At that moment the remnant of my <ref target="#erotic"
+                        >love</ref> passed into hate and loathing; had she then to be <ref
+                        target="#violent">killed</ref>, I could have done it with savage <ref
+                        target="#erotic">delight</ref>. As she looked, her eyes blazed with unholy
+                    light, and the face became wreathed with a <ref target="#erotic"
+                        >voluptuous</ref> smile. Oh, God, how it made me shudder to see it! With a
+                    careless motion, she <ref target="#violent">flung to the ground</ref>, callous
+                    as a devil, the child that up to now she had clutched strenuously to her <ref
+                        target="#erotic">breast</ref>, growling over it as a dog growls over a bone.
+                    The child gave a sharp cry, and lay there <ref target="#violenterotic"
+                        >moaning</ref>. There was a cold-bloodedness in the act which wrung a <ref
+                        target="#erotic">groan</ref> from <persName ref="#Arthur">Arthur</persName>;
+                    when she advanced to him with outstretched arms and a <ref target="#erotic"
+                        >wanton</ref> smile he fell back and hid his face in his hands.</p>
+                <p>She still advanced, however, and with a languorous, <ref target="#erotic"
+                        >voluptuous</ref> grace, said:—</p>
+                <p>“Come to me, <persName ref="#Arthur">Arthur</persName>. Leave these others and
+                    come to me. My arms are hungry for you. Come, and we can rest together. Come, my
+                    husband, come!”</p>
+                <p>There was something <ref target="#violenterotic">diabolically sweet</ref> in her
+                    tones—something of the tingling of glass when struck—which rang through the
+                    brains even of us who heard the words addressed to another. As for <persName
+                        ref="#Arthur">Arthur</persName>, he seemed under a spell; moving his hands
+                    from his face, he opened wide his arms. She was leaping for them, when <persName
+                        ref="#VanHelsing">Van Helsing</persName> sprang forward and held between
+                    them his little golden crucifix. She <ref target="#violent">recoiled</ref> from
+                    it, and, with a suddenly <ref target="#violent">distorted</ref> face, full of
+                    rage, dashed past him as if to enter the tomb.</p>
+                <p>When within a foot or two of the door, however, she stopped, as if arrested by
+                    some <ref target="#erotic">irresistible</ref> force. Then she turned, and her
+                    face was shown in the clear burst of moonlight and by the lamp, which had now no
+                    quiver from <persName ref="#VanHelsing">Van Helsing's</persName> iron nerves.
+                    Never did I see such baffled malice on a face; and never, I trust, shall such
+                    ever be seen again by mortal eyes. The <ref target="#erotic">beautiful</ref>
+                    colour became livid, the eyes seemed to <ref target="#violent">throw out sparks
+                        of hell-fire</ref>, the brows were wrinkled as though the folds of the flesh
+                    were the coils of Medusa’s snakes, and the <ref target="#erotic">lovely</ref>,
+                        <ref target="#violenterotic">blood</ref>-stained <ref target="#erotic"
+                        >mouth</ref>grew to an open square, as in the passion masks of the Greeks
+                    and Japanese. If ever a face meant death—if looks could <ref target="#violent"
+                        >kill</ref>—we saw it at that moment.</p>
+                <p>And so for full half a minute, which seemed an eternity, she remained between the
+                    lifted crucifix and the sacred closing of her means of entry. <persName
+                        ref="#VanHelsing">Van Helsing</persName> broke the silence by asking
+                        <persName ref="#Arthur">Arthur</persName>:—</p>
+                <p>“Answer me, oh my friend! Am I to proceed in my work?”</p>
+                <p><persName ref="#Arthur">Arthur</persName> threw himself on his knees, and hid his
+                    face in his hands, as he answered:—</p>
+                <p>“Do as you will, friend; do as you will. There can be no horror like this ever
+                    any more;” and he groaned in spirit. <persName ref="Quincey">Quincey </persName>
+                    and I simultaneously moved towards him, and took his arms. We could hear the
+                    click of the closing lantern as Van Helsing held it down; coming close to the
+                    tomb, he began to remove from the chinks some of the sacred emblem which he had
+                    placed there. We all looked on in horrified amazement as we saw, when he stood
+                    back, the woman, with a corporeal body as real at that moment as our own, pass
+                    in through the interstice where scarce a <ref target="#violent"
+                        >knife-blade</ref> could have gone. We all felt a glad sense of relief when
+                    we saw the <persName ref="#VanHelsing">Professor</persName> calmly restoring the
+                    strings of putty to the edges of the door.</p>
+                <p>When this was done, he lifted the child and said:</p>
+                <p>“Come now, my friends; we can do no more till to-morrow. There is a funeral at
+                    noon, so here we shall all come before long after that. The friends of the dead
+                    will all be gone by two, and when the sexton lock the gate we shall remain. Then
+                    there is more to do; but not like this of to-night. As for this little one, he
+                    is not much harm, and by to-morrow night he shall be well. We shall leave him
+                    where the police will find him, as on the other night; and then to home.” Coming
+                    close to <persName ref="#Arthur">Arthur</persName>, he said:—</p>
+                <p>“My friend <persName ref="#Arthur">Arthur</persName>, you have had a sore trial;
+                    but after, when you look back, you will see how it was necessary. You are now in
+                    the bitter waters, my child. By this time to-morrow you will, please God, have
+                    passed them, and have drunk of the <ref target="#erotic">sweet</ref> waters; so
+                    do not mourn overmuch. Till then I shall not ask you to forgive me.”</p>
+                <p><persName ref="#Arthur">Arthur</persName> and <persName ref="Quincey"
+                        >Quincey</persName> came home with me, and we tried to cheer each other on
+                    the way. We had left the child in safety, and were tired; so we all slept with
+                    more or less reality of sleep.</p>
+            </div>
+            <div type="passage">
+                <head><date>September 29th</date>, <time>night</time></head>
+                <p>—A little before <time>twelve o’clock</time> we three—<persName ref="#Arthur"
+                        >Arthur</persName>, <persName ref="Quincey">Quincey Morris</persName>, and
+                    myself—called for the <persName ref="#VanHelsing">Professor</persName>. It was
+                    odd to notice that by common consent we had all put on black clothes. Of course,
+                        <persName ref="#Arthur">Arthur</persName> wore black, for he was in deep
+                    mourning, but the rest of us wore it by instinct. We got to the churchyard by
+                    half-past one, and strolled about, keeping out of official observation, so that
+                    when the gravediggers had completed their task and the sexton under the belief
+                    that every one had gone, had locked the gate, we had the place all to ourselves.
+                        <persName ref="#VanHelsing">Van Helsing</persName>, instead of his little
+                    black bag, had with him a long leather one, something like a cricketing bag; it
+                    was manifestly of fair weight.</p>
+                <p>When we were alone and had heard the last of the footsteps die out up the road,
+                    we silently, and as if by ordered intention, followed the <persName
+                        ref="#VanHelsing">Professor</persName> to the tomb. He unlocked the door,
+                    and we entered, closing it behind us. Then he took from his bag the lantern,
+                    which he lit, and also two wax candles, which, when lighted, he stuck, by
+                    melting their own ends, on other coffins, so that they might give light
+                    sufficient to work by. When he again lifted the lid off <persName ref="#Lucy"
+                        >Lucy's</persName> coffin we all looked—<persName ref="#Arthur"
+                        >Arthur</persName>
+                    <ref target="#erotic">trembling</ref> like an aspen—and saw that the body lay
+                    there in all its <ref target="#violenterotic">death-beauty</ref> But there was
+                    no <ref target="#erotic">love</ref> in my own heart, nothing but loathing for
+                    the foul Thing which had taken <persName ref="#Lucy">Lucy's</persName> shape
+                    without her soul. I could see even <persName ref="#Arthur">Arthur</persName>’s
+                    face grow hard as he looked. Presently he said to Van Helsing:—</p>
+                <p>“Is this really <persName ref="#Lucy">Lucy's</persName> body, or only a demon in
+                    her shape?”</p>
+                <p>“It is her body, and yet not it. But wait a while, and you all see her as she
+                    was, and is.”</p>
+                <p>She seemed like a nightmare of <persName ref="#Lucy">Lucy</persName> as she lay
+                    there; the <ref target="#violenterotic">pointed teeth</ref>, the <ref
+                        target="#violenterotic">bloodstained</ref>, <ref target="#erotic"
+                        >voluptuous</ref> mouth—which it made one <ref target="#erotic"
+                        >shudder</ref> to see—the whole <ref target="#erotic">carnal</ref> and
+                    unspiritual appearance, seeming like a devilish mockery of <persName ref="#Lucy"
+                        >Lucy's</persName>
+                    <ref target="#erotic">sweet purity</ref>. <persName ref="#VanHelsing">Van
+                        Helsing</persName>, with his usual methodicalness, began taking the various
+                    contents from his bag and placing them ready for use. First he took out a
+                    soldering iron and some plumbing solder, and then a small oil-lamp, which gave
+                    out, when lit in a corner of the tomb, gas which burned at fierce heat with a
+                    blue flame; then his operating knives, which he placed to hand; and last a round
+                        <ref target="#violent">wooden stake</ref>, some two and a half or three
+                    inches thick and about three feet long. One end of it was hardened by charring
+                    in the fire, and was sharpened to a fine point. With this stake came a heavy<ref
+                        target="#violent"> hammer</ref>, such as in households is used in the
+                    coal-cellar for breaking the lumps. To me, a doctor’s preparations for work of
+                    any kind are stimulating and bracing, but the effect of these things on both
+                        <persName ref="#Arthur">Arthur</persName> and <persName ref="Quincey"
+                        >Quincey</persName> was to cause them a sort of consternation. They both,
+                    however, kept their courage, and remained silent and quiet.</p>
+                <p>When all was ready, <persName ref="#VanHelsing">Van Helsing</persName> said:—</p>
+                <p>“Before we do anything, let me tell you this; it is out of the lore and
+                    experience of the ancients and of all those who have studied the powers of the
+                    Un-Dead. When they become such, there comes with the change the curse of
+                    immortality; they cannot <ref target="#violent">die</ref>, but must go on age
+                    after age adding new victims and multiplying the evils of the world; for all
+                    that die from the preying of the Un-Dead becomes themselves Un-Dead, and <ref
+                        target="#violenterotic">prey</ref> on their kind. And so the circle goes on
+                    ever widening, like as the ripples from a stone thrown in the water. Friend
+                        <persName ref="#Arthur">Arthur</persName>, if you had met that <ref
+                        target="#erotic">kiss</ref> which you know of before poor <persName
+                        ref="#Lucy">Lucy</persName>
+                    <ref target="#violent">die</ref>; or again, last night when you open your arms
+                    to her, you would in time, when you had died, have become nosferatu, as they
+                    call it in Eastern Europe, and would all time make more of those Un-Deads that
+                    so have fill us with horror. The career of this so unhappy dear lady is but just
+                    begun. Those children whose <ref target="#violenterotic">blood</ref> she <ref
+                        target="#violenterotic">suck</ref> are not as yet so much the worse; but if
+                    she live on, Un-Dead, more and more they lose their <ref target="#violenterotic"
+                        >blood</ref> and by her power over them they come to her; and so she draw
+                    their blood with that so <ref target="#violenterotic">wicked mouth</ref>. But if
+                    she die in truth, then all cease; the tiny <ref target="#violent">wounds</ref>
+                    of the <ref target="#erotic">throats</ref> disappear, and they go back to their
+                    plays unknowing ever of what has been. But of the most blessed of all, when this
+                    now Un-Dead be made to rest as true dead, then the soul of the poor lady whom we
+                        <ref target="#erotic">love</ref> shall again be free. Instead of working
+                    wickedness by night and growing more debased in the assimilating of it by day,
+                    she shall take her place with the other Angels. So that, my friend, it will be a
+                    blessed hand for her that shall strike the blow that sets her free. To this I am
+                    willing; but is there none amongst us who has a better right? Will it be no joy
+                    to think of hereafter in the silence of the night when sleep is not: ‘It was my
+                    hand that sent her to the stars; it was the hand of him that loved her best; the
+                    hand that of all she would herself have chosen, had it been to her to choose?’
+                    Tell me if there be such a one amongst us?”</p>
+                <p>We all looked at <persName ref="#Arthur">Arthur</persName>. He saw, too, what we
+                    all did, the infinite kindness which suggested that his should be the hand which
+                    would restore <persName ref="#Lucy">Lucy</persName> to us as a holy, and not an
+                    unholy, memory; he stepped forward and said bravely, though his hand <ref
+                        target="erotic">trembled</ref>, and his face was as pale as snow:—</p>
+                <p>“My true friend, from the bottom of my broken heart I thank you. Tell me what I
+                    am to do, and I shall not falter!” <persName ref="#VanHelsing">Van
+                        Helsing</persName> laid a hand on his shoulder, and said:—</p>
+                <p>“Brave lad! A moment’s courage, and it is done. <ref target="#violent">This stake
+                        must be driven through her</ref>. It will be a fearful ordeal—be not
+                    deceived in that—but it will be only a short time, and you will then rejoice
+                    more than your <ref target="#violent">pain</ref> was great; from this grim tomb
+                    you will emerge as though you tread on air. But you must not falter when once
+                    you have begun. Only think that we, your true friends, are round you, and that
+                    we pray for you all the time.”</p>
+                <p>“Go on,” said <persName ref="#Arthur">Arthur</persName> hoarsely. “Tell me what I
+                    am to do.”</p>
+                <p>“Take this <ref target="#violent">stake</ref> in your left hand, ready to place
+                    the point over the heart, and the <ref target="#violent">hammer</ref> in your
+                    right. Then when we begin our prayer for the dead—I shall read him, I have here
+                    the book, and the others shall follow—strike in God’s name, that so all may be
+                    well with the dead that we <ref target="#erotic">love</ref> and that the Un-Dead
+                    pass away.”</p>
+                <p><persName ref="#Arthur">Arthur</persName> took the <ref target="#violent">stake
+                        and the hammer</ref>, and when once his mind was set on action his hands
+                    never <ref target="#erotic">trembled nor even quivered</ref>. <persName
+                        ref="#VanHelsing">Van Helsing</persName> opened his missal and began to
+                    read, and <persName ref="Quincey">Quincey</persName> and I followed as well as
+                    we could. <persName ref="#Arthur">Arthur</persName> placed the point over the
+                    heart, and as I looked I could see its dint in the white flesh. <ref
+                        target="#violent">Then he struck with all his might</ref>.</p>
+                <p>The Thing in the coffin <ref target="#violenterotic">writhed</ref>; and a
+                    hideous, blood-curdling screech came from the opened <ref target="#erotic">red
+                        lips</ref>. The body <ref target="#violenterotic">shook and quivered and
+                        twisted in wild contortions; the sharp white teeth champed together till the
+                        lips were cut, and the mouth was smeared with a crimson foam</ref>. But
+                        <persName ref="#Arthur">Arthur</persName> never faltered. He looked like a
+                    figure of Thor as his untrembling arm rose and fell, <ref target="#violent"
+                        >driving deeper and deeper the mercy-bearing stake</ref>, whilst the <ref
+                        target="#violenterotic">blood</ref> from the pierced heart welled and
+                    spurted up around it. His face was set, and high duty seemed to shine through
+                    it; the sight of it gave us courage so that our voices seemed to ring through
+                    the little vault.</p>
+                <p>And then the <ref target="#violenterotic">writhing and quivering</ref>of the body
+                    became less, and the teeth seemed to champ, and the face to <ref
+                        target="#erotic">quiver</ref>. Finally it lay still. The terrible task was
+                    over.</p>
+                <p>The <ref target="#violent">hammer</ref> fell from <persName ref="#Arthur"
+                        >Arthur</persName>’s hand. He reeled and would have fallen had we not caught
+                    him. The great drops of <ref target="#erotic">sweat</ref> sprang from his
+                    forehead, and his breath came in broken <ref target="#erotic">gasps</ref>. It
+                    had indeed been an awful strain on him; and had he not been forced to his task
+                    by more than human considerations he could never have gone through with it. For
+                    a few minutes we were so taken up with him that we did not look towards the
+                    coffin. When we did, however, a murmur of startled surprise ran from one to the
+                    other of us. We gazed so eagerly that <persName ref="#Arthur">Arthur</persName>
+                    rose, for he had been seated on the ground, and came and looked too; and then a
+                    glad, strange light broke over his face and dispelled altogether the gloom of
+                    horror that lay upon it.</p>
+                <p>There, in the coffin lay no longer the foul Thing that we had so dreaded and
+                    grown to hate that the work of her destruction was yielded as a privilege to the
+                    one best entitled to it, but <persName ref="#Lucy">Lucy</persName> as we had
+                    seen her in her life, with her face of unequalled <ref target="#erotic"
+                        >sweetness and purity</ref>. True that there were there, as we had seen them
+                    in life, the traces of care and pain and waste; but these were all dear to us,
+                    for they marked her truth to what we knew. One and all we felt that the holy
+                    calm that lay like sunshine over the wasted face and form was only an earthly
+                    token and symbol of the calm that was to reign for ever.</p>
+                <p><persName ref="#VanHelsing">Van Helsing</persName> came and laid his hand on
+                        <persName ref="#Arthur">Arthur</persName>’s shoulder, and said to him:—</p>
+                <p>“And now, <persName ref="#Arthur">Arthur</persName> my friend, dear lad, am I not
+                    forgiven?”</p>
+                <p>The reaction of the terrible strain came as he took the old man’s hand in his,
+                    and raising it to his <ref target="#erotic">lips</ref>, pressed it, and
+                    said:—</p>
+                <p>“Forgiven! God bless you that you have given my dear one her soul again, and me
+                    peace.” He put his hands on the <persName ref="#VanHelsing"
+                        >Professor's</persName> shoulder, and laying his head on his breast, cried
+                    for a while silently, whilst we stood unmoving. When he raised his head
+                        <persName ref="#VanHelsing">Van Helsing</persName> said to him:—</p>
+                <p>“And now, my child, you may <ref target="#erotic">kiss</ref> her. <ref
+                        target="#violenterotic">Kiss her dead lips</ref> if you will, as she would
+                    have you to, if for her to choose. For she is not a grinning devil now—not any
+                    more a foul Thing for all eternity. No longer she is the devil’s Un-Dead. She is
+                    God’s true dead, whose soul is with Him!”</p>
+                <p><persName ref="#Arthur">Arthur</persName> bent and <ref target="#erotic"
+                        >kissed</ref> her, and then we sent him and <persName ref="Quincey"
+                        >Quincey</persName> out of the tomb; the <persName ref="#VanHelsing"
+                        >Professor</persName> and I sawed the top off the <ref target="#violent"
+                        >stake</ref>, leaving the point of it in the body. Then we <ref
+                        target="#violent">cut off the head</ref> and filled the <ref
+                        target="#erotic">mouth</ref> with garlic. We soldered up the leaden coffin,
+                    screwed on the coffin-lid, and gathering up our belongings, came away. When the
+                        <persName ref="#VanHelsing">Professor</persName> locked the door he gave the
+                    key to <persName ref="#Arthur">Arthur</persName>.</p>
+                <p>Outside the air was <ref target="#erotic">sweet</ref>, the sun shone, and the
+                    birds sang, and it seemed as if all nature were tuned to a different pitch.
+                    There was gladness and mirth and peace everywhere, for we were at rest ourselves
+                    on one account, and we were glad, though it was with a tempered joy.</p>
+                <p>Before we moved away <persName ref="#VanHelsing">Van Helsing</persName>
+                    said:—</p>
+                <p>“Now, my friends, one step of our work is done, one the most harrowing to
+                    ourselves. But there remains a greater task: to find out the author of all this
+                    our sorrow and to stamp him out. I have clues which we can follow; but it is a
+                    long task, and a difficult, and there is danger in it, and <ref
+                        target="#violent">pain</ref>. Shall you not all help me? We have learned to
+                    believe, all of us—is it not so? And since so, do we not see our duty? Yes! And
+                    do we not promise to go on to the bitter end?”</p>
+                <p>Each in turn, we took his hand, and the promise was made. Then said the <persName
+                        ref="#VanHelsing">Professor</persName> as we moved off:—</p>
+                <p>“Two nights hence you shall meet with me and dine together at seven of the clock
+                    with friend John. I shall entreat two others, two that you know not as yet; and
+                    I shall be ready to all our work show and our plans unfold. Friend John, you
+                    come with me home, for I have much to consult about, and you can help me.
+                    To-night I leave for Amsterdam, but shall return to-morrow night. And then
+                    begins our great quest. But first I shall have much to say, so that you may know
+                    what is to do and to dread. Then our promise shall be made to each other anew;
+                    for there is a terrible task before us, and once our feet are on the ploughshare
+                    we must not draw back.”</p>
+            </div>
+        </body>
+        <back>
+            <div type="rationale">
+                <head>The Violent Erotic</head>
+                <ab xml:id="erotic"><emph>Erotic</emph> - What constitutes erotic language was
+                    decided through word frequency studies in Victorian pornographic texts. This
+                    language set is largely characterized by adjectives such as wanton and
+                    voluptuous.</ab>
+                <ab xml:id="violent"><emph>Violent</emph> - Violent language is characterized by
+                    weapons and descriptions of weaponry. I have also included verbs describing
+                    violence and words related to wounds and wounding.</ab>
+                <ab xml:id="violenterotic"><emph>The Violent Erotic</emph> - Violent erotic language
+                    describes overlap between the erotic and violent language sets. There are a
+                    number of words and phrases that belong to both, implying a shared vocabulary
+                    between sex acts and violence.</ab>
+            </div>
+            <div>
+                <listPerson>
+                    <person xml:id="Arthur">
+                        <persName>Arthur Holmwood</persName>
+                        <occupation type="role">Arthur Holmwood is the wealthy son of Lord
+                            Goldaming. When his father dies, he inherits his title. He is betrothed
+                            to Lucy Westerna earlier on in the novel before Count Dracula transforms
+                            her into a vampire.</occupation>
+                    </person>
+                    <person xml:id="Lucy">
+                        <persName>Lucy Westenra</persName>
+                        <occupation type="role">Lucy Westenra is the best friend of Mina Murray. She
+                            comes from a wealthy family and is decribed throughout the novel as
+                            physically attractive. She has a history of sleepwalking, which makes
+                            her susceptible to Dracula's enchantment. She becomes mysteriously ill
+                            several times before dying and returning to life as a
+                            vampire.</occupation>
+                        <age>19</age>
+                    </person>
+                    <person xml:id="Dr.Seward">
+                        <persName>Dr. John Seward</persName>
+                        <occupation type="role">Best friends with Arthur Holmwood and Quincey
+                            Morris, Dr. Seward is a psychiatrist at a mental institute. His
+                            observations of R. M. Renfield allow the reader insight into the
+                            characteristics of a vampire. Much of the novel is written from his
+                            perspective.</occupation>
+                    </person>
+                    <person xml:id="VanHelsing">
+                        <persName>Abraham Van Helsing</persName>
+                        <occupation type="role">Van Helsing is invited Dr. Seward to help diagnose
+                            the condition of Lucy Westerna, whose state is quickly deteriorating.
+                            Van Helsing is well-versed in a number of subjects including vampirism.
+                            He is the one who first understands that Lucy is the victim of a
+                            vampire. After she dies, he instructs Arthur, Dr. Seward, and Quincey on
+                            how to kill Lucy's undead corpse.</occupation>
+                    </person>
+                    <person xml:id="Quincey">
+                        <persName>Quincey Morris</persName>
+                        <occupation>Quincey Morris is a wealthy American from Texas. He, along with
+                            Arthur, Dr. Seward, and Van Helsing, is part of the Crew of Light, which
+                            sets out to destroy Dracula</occupation>
+                    </person>
+                </listPerson>
+            </div>
+        </back>
+    </text>
+</TEI>
